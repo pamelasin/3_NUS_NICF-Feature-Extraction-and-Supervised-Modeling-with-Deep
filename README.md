@@ -11,10 +11,18 @@
     3. Transfer learning (mobilenet and inceptionv3 featurisers) + Kerastuner randomsearch
     4. Hyperparameter search with tensorboard visualisation
     5. Model peformance and metrics
-- Files include train test sets, Python code and PDF annotation  
+- Files include train test sets, Python code and PDF remarks 
 
 
-## **Presentation slide excerpts**
+## **Python code excerpts**
 [![Capture.png](https://i.postimg.cc/d1fLr78Q/Capture.png)](https://postimg.cc/k6xJdg1L)
 
-TO INCLUDE
+[![Capture.png](https://i.postimg.cc/1zSLWpQN/Capture.png)](https://postimg.cc/nXdRr9MH)
+
+[![Capture.png](https://i.postimg.cc/xCBr3BT9/Capture.png)](https://postimg.cc/zbwPJtgQ)
+
+[![Capture.png](https://i.postimg.cc/Mp39BVGS/Capture.png)](https://postimg.cc/TKmjMym7)
+
+[![Capture.png](https://i.postimg.cc/vZxVPVzM/Capture.png)](https://postimg.cc/18PXX42Y)
+
+[![Capture.png](https://i.postimg.cc/zvLzJn3G/Capture.png)](https://postimg.cc/n9Jb29vy)
